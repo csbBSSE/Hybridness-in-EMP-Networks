@@ -1,6 +1,8 @@
 #This code uses JSD function to compare the steady state frequency distribution of any wild-type network with the steady state frequency 
 #distribution of its perturbations.
 
+@author: Mubasher
+
 library(tidyverse)
 library(dplyr)
 library(magrittr)
