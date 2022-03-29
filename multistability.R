@@ -1,6 +1,8 @@
 
 #this code has network solution folder as input and output is plasticity score as excel file.
 
+@author: Mubasher
+
 library(tidyverse)
 multistabilityCalc <- function(folder)
 {
