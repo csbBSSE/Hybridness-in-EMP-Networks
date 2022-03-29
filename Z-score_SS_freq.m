@@ -3,6 +3,8 @@
 %variable (columns of the solution matrix), before descritizing the (varible) values to get a matrix of 0's and 1's, where each row 
 %represents the steady state. The output is the frequency of each unique steady state in the descritized matrix and is written to the excel file.
 
+% @author: Mubasher
+
 %clear all;
 clear variables;
 clear global;
