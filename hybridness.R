@@ -4,6 +4,8 @@
 #of all the epithelial nodes from the average expressions of all the mesenchymal nodes. Based on the EMT score, lying between -1 and +1, it 
 #characterizes the SS as the hybrid state if its EMT score lies between -0.5 and +0.5.
 
+@author: Kishore
+
 library(readxl)
 library(tidyverse)
 library(magrittr)
