@@ -2,6 +2,9 @@ options(stringsAsFactors = F)
 library(compiler)
 library(stringr)
 
+
+@author: Kishore
+
 # This code has input as "topo_file_name.topo" & lmax =10. Its output is Influence Matrix in .csv format. This matrix is needed to calculate Influence values 
 
 topo_to_int_mat <- function(topo_file) {
