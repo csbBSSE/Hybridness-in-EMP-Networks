@@ -2,6 +2,9 @@
 #frustration of each SS as output. Frustration of  a SS is calculated by taking the ratio of total number of frustrated edges in a SS to the total
 #number of edges in that SS. Network frustration is then obtained by taking the maximum/minimum/mean of frustrations of all the SS's.
 
+@author: Kishore
+
+
 library(readxl)
 
 frustCalc <- function(stateFile, topoFile)
