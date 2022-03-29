@@ -3,6 +3,7 @@
 #Secondly, it calculates the upper traingular matrix of the correlation matrix.
 #Finally, it sums up the elements of the upper triangular matrix (without diagonal elements) by taking the absolute values of the elements.
 
+@author: Mubasher
 library(tidyverse)
 library(dplyr)
 library(magrittr)
