@@ -1,0 +1,10 @@
+Ecad
+GRHL2
+Iext
+KEAP1
+NRF2
+OVOL2
+SNAIL
+ZEB
+miR200
+miR34

@@ -1,0 +1,5 @@
+,Cycles,Nature,Edge_count
+0,"miR200,ZEB,miR145,OCT4",N,4
+1,"miR200,ZEB",P,2
+2,"OCT4,miR145",P,2
+3,"ZEB,miR145",P,2

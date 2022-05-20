@@ -1,0 +1,7 @@
+Cycles,Edge_count
+SNAIL,1
+"miR200,ZEB,SNAIL",3
+ZEB,1
+"miR34,ZEB,SNAIL",3
+"Ecadherin,ZEB,SNAIL,NRF2",4
+"KEAP1,miR200,SNAIL,NRF2",4

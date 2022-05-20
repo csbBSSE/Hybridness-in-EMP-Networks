@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+<key attr.name="name" attr.type="string" for="node" id="d0" />
+<key attr.name="repress" attr.type="boolean" for="edge" id="d1" />
+  <graph id="G" edgedefault="directed">
+    <node id="1">
+      <data key="d0">FOXC2</data>
+    </node>
+    <node id="2">
+      <data key="d0">KLF8</data>
+    </node>
+    <node id="3">
+      <data key="d0">miR-101</data>
+    </node>
+    <node id="4">
+      <data key="d0">miR-141</data>
+    </node>
+    <node id="5">
+      <data key="d0">miR-200a</data>
+    </node>
+    <node id="6">
+      <data key="d0">miR-200b</data>
+    </node>
+    <node id="7">
+      <data key="d0">miR-200c</data>
+    </node>
+    <node id="8">
+      <data key="d0">miR-205</data>
+    </node>
+    <node id="9">
+      <data key="d0">miR-30c</data>
+    </node>
+    <node id="10">
+      <data key="d0">miR-34a</data>
+    </node>
+    <node id="20">
+      <data key="d0">miR-9</data>
+    </node>
+    <node id="21">
+      <data key="d0">SNAI1</data>
+    </node>
+    <node id="22">
+      <data key="d0">SNAI2</data>
+    </node>
+    <node id="23">
+      <data key="d0">TCF3</data>
+    </node>
+    <node id="24">
+      <data key="d0">TWIST1</data>
+    </node>
+    <node id="25">
+      <data key="d0">TWIST2</data>
+    </node>
+    <node id="26">
+      <data key="d0">ZEB1</data>
+    </node>
+    <node id="27">
+      <data key="d0">ZEB2</data>
+    </node>
+    <node id="28">
+      <data key="d0">GSC</data>
+    </node>
+    <node id="29">
+      <data key="d0">TGF-beta</data>
+    </node>
+    <node id="30">
+      <data key="d0">OVOL2</data>
+    </node>
+    <node id="31">
+      <data key="d0">GRHL2</data>
+    </node>
+    <node id="32">
+      <data key="d0">CLDN7</data>
+    </node>
+    <node id="33">
+      <data key="d0">CDH1</data>
+    </node>
+    <node id="34">
+      <data key="d0">NP63</data>
+    </node>
+    <node id="35">
+      <data key="d0">VIM</data>
+    </node>
+    <edge source="1" target="26">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="2" target="33">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="3" target="2">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="3" target="26">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="3" target="27">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="3" target="21">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="4" target="26">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="4" target="27">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="4" target="29">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="5" target="26">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="5" target="27">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="5" target="29">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="6" target="26">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="6" target="27">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="6" target="29">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="7" target="26">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="7" target="27">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="7" target="29">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="8" target="26">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="8" target="27">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="9" target="21">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="9" target="22">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="9" target="27">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="10" target="21">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="10" target="22">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="10" target="25">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="10" target="26">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="20" target="33">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="20" target="27">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="21" target="33">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="21" target="35">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="21" target="1">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="21" target="21">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="21" target="22">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="21" target="24">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="21" target="26">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="21" target="27">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="21" target="10">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="21" target="3">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="22" target="33">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="22" target="35">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="22" target="22">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="22" target="25">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="22" target="3">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="22" target="6">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="23" target="33">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="24" target="33">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="24" target="35">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="24" target="1">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="24" target="21">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="24" target="22">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="24" target="23">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="24" target="26">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="24" target="27">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="25" target="33">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="25" target="21">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="25" target="22">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="25" target="24">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="25" target="26">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="25" target="27">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="26" target="33">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="26" target="35">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="26" target="4">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="26" target="6">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="26" target="7">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="26" target="5">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="26" target="10">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="26" target="26">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="27" target="33">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="27" target="35">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="27" target="6">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="27" target="7">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="27" target="5">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="27" target="27">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="28" target="21">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="28" target="24">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="28" target="1">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="28" target="26">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="28" target="27">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="29" target="28">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="29" target="21">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="29" target="22">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="26" target="30">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="30" target="26">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="31" target="30">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="31" target="26">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="26" target="31">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="30" target="33">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="30" target="30">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="30" target="35">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="30" target="22">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="30" target="34">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="30" target="29">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="26" target="32">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="32" target="33">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="33" target="22">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="34" target="22">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="34" target="8">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="34" target="31">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="31" target="34">
+      <data key="d1">false</data>
+    </edge>
+  </graph>
+</graphml>

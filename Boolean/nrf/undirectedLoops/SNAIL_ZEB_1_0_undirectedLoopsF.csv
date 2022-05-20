@@ -1,0 +1,12 @@
+"EdgeList","Nature","Cycles","Edge_count"
+"SNAIL,SNAIL","N","SNAIL",1
+"miR200,ZEB;ZEB,Ecadherin;Ecadherin,NRF2;NRF2,SNAIL;SNAIL,miR200","N","miR200,ZEB,Ecadherin,NRF2,SNAIL",5
+"ZEB,miR200;ZEB,Ecadherin;Ecadherin,NRF2;NRF2,SNAIL;SNAIL,miR200","N","miR200,ZEB,Ecadherin,NRF2,SNAIL",5
+"miR200,ZEB;Ecadherin,ZEB;Ecadherin,NRF2;NRF2,SNAIL;SNAIL,miR200","N","miR200,ZEB,Ecadherin,NRF2,SNAIL",5
+"ZEB,miR200;Ecadherin,ZEB;Ecadherin,NRF2;NRF2,SNAIL;SNAIL,miR200","N","miR200,ZEB,Ecadherin,NRF2,SNAIL",5
+"ZEB,ZEB","P","ZEB",1
+"ZEB,miR34;ZEB,Ecadherin;Ecadherin,NRF2;NRF2,SNAIL;SNAIL,miR34","N","miR34,ZEB,Ecadherin,NRF2,SNAIL",5
+"ZEB,miR34;Ecadherin,ZEB;Ecadherin,NRF2;NRF2,SNAIL;SNAIL,miR34","N","miR34,ZEB,Ecadherin,NRF2,SNAIL",5
+"ZEB,miR34;ZEB,Ecadherin;Ecadherin,NRF2;NRF2,SNAIL;miR34,SNAIL","N","miR34,ZEB,Ecadherin,NRF2,SNAIL",5
+"ZEB,miR34;Ecadherin,ZEB;Ecadherin,NRF2;NRF2,SNAIL;miR34,SNAIL","N","miR34,ZEB,Ecadherin,NRF2,SNAIL",5
+"miR200,KEAP1;KEAP1,NRF2;NRF2,SNAIL;SNAIL,miR200","P","miR200,KEAP1,NRF2,SNAIL",4

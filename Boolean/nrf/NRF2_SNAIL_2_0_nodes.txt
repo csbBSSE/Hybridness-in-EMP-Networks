@@ -1,0 +1,8 @@
+Ecadherin
+Iext
+KEAP1
+NRF2
+SNAIL
+ZEB
+miR200
+miR34

@@ -1,0 +1,4 @@
+"EdgeList","Nature","Cycles","Edge_count"
+"miR200,ZEB;SNAIL,ZEB;SNAIL,miR200","P","miR200,ZEB,SNAIL",3
+"ZEB,miR200;SNAIL,ZEB;SNAIL,miR200","P","miR200,ZEB,SNAIL",3
+"ZEB,ZEB","N","ZEB",1

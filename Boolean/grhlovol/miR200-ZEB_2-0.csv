@@ -1,0 +1,5 @@
+,Cycles,Nature,Edge_count
+0,ZEB,P,1
+1,OVOL2,N,1
+2,"GRHL2,ZEB",P,2
+3,"ZEB,OVOL2",P,2

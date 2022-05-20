@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+<key attr.name="name" attr.type="string" for="node" id="d0" />
+<key attr.name="repress" attr.type="boolean" for="edge" id="d1" />
+  <graph id="G" edgedefault="directed">
+    <node id="1">
+      <data key="d0">miR200</data>
+    </node>
+    <node id="2">
+      <data key="d0">ZEB</data>
+    </node>
+    <node id="3">
+      <data key="d0">GRHL2</data>
+    </node>
+    <node id="4">
+      <data key="d0">OVOL2</data>
+    </node>
+    <node id="5">
+      <data key="d0">miR145</data>
+    </node>
+    <node id="6">
+      <data key="d0">OCT4</data>
+    </node>
+    <node id="7">
+      <data key="d0">SNAIL</data>
+    </node>
+    <edge source="1" target="2">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="2" target="1">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="2" target="3">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="3" target="2">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="2" target="4">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="4" target="2">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="4" target="1">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="2" target="5">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="5" target="2">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="5" target="6">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="6" target="5">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="6" target="1">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="7" target="1">
+      <data key="d1">false</data>
+    </edge>
+    <edge source="7" target="2">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="2" target="2">
+      <data key="d1">true</data>
+    </edge>
+    <edge source="4" target="4">
+      <data key="d1">false</data>
+    </edge>
+  </graph>
+</graphml>

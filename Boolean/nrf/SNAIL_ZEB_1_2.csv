@@ -1,0 +1,12 @@
+,Cycles,Nature,Edge_count
+0,SNAIL,N,1
+1,ZEB,P,1
+2,"KEAP1,NRF2,SNAIL,ZEB,miR200",N,5
+3,"KEAP1,NRF2,SNAIL,miR200",P,4
+4,"miR34,SNAIL,ZEB",N,3
+5,"miR34,SNAIL,miR200,ZEB",P,4
+6,"miR34,SNAIL",P,2
+7,"NRF2,SNAIL,ZEB,Ecadherin",P,4
+8,"NRF2,SNAIL,miR200,ZEB,Ecadherin",N,5
+9,"Ecadherin,ZEB",P,2
+10,"miR200,ZEB",P,2

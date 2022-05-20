@@ -1,0 +1,7 @@
+"Nature","Strength","Type","Node"
+"P",0.3875,"DA","miR200,miR200"
+"N",0.2875,"NF","miR200,OVOL2"
+"P",0.675,"TS","miR200,ZEB"
+"P",0.1875,"TS","OVOL2,OVOL2"
+"N",0.3875,"NF","OVOL2,ZEB"
+"P",0.775,"DA","ZEB,ZEB"

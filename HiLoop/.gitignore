@@ -1,0 +1,16 @@
+__pycache__/
+.venv*/
+.vscode/
+bin/
+data/
+images/
+include/
+lib/
+lib64
+out/
+share/
+site-packages/
+nohup.out
+pyvenv.cfg
+_*.gxml
+_*.py
